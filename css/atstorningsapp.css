@@ -1,18 +1,19 @@
-﻿.jumbotron 
+﻿.jumbotron
 {
-  background-color: #3d3301;
+    /*background-color: #3d3301;*/
+    background-color: #000;
 }
 
-.jumbotron h1,
-.jumbotron .h1 
-{
-  color: #fcd205;
-}
+    .jumbotron h1,
+    .jumbotron .h1
+    {
+        color: #fcd205;
+    }
 
-.jumbotron p
-{
-  color: #fcd205;
-}
+    .jumbotron p
+    {
+        color: #fcd205;
+    }
 
 .footer-block
 {
